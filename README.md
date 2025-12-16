@@ -22,6 +22,9 @@
 
 ### 화면을 열 수 없는 환경에서 실행하기
 GUI를 띄울 수 없는 환경에서는 다음처럼 가상 디스플레이 드라이버를 사용해 실행할 수 있습니다.
+
+
+참고로 저는 500점이상까지 도달했습니다.
 ```bash
 SDL_VIDEODRIVER=dummy python space_shooter.py
 ```
