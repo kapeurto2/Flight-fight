@@ -12,6 +12,8 @@
    python space_shooter.py
    # 혹은
    python -m space_shooter
+   # 혹은
+   직접 프로젝트 파일을 VSC/Pycharm 등으로 연후 space_shooter.py 실행
    ```
 3. 키 조작
    - 이동: 방향키 ← ↑ → ↓
